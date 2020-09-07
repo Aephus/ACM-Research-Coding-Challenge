@@ -7,3 +7,5 @@ Clustering is a big proponent
 ![Image of K-means Plot](kmeans.png)
 
 ## DBSCAN: Density-based Spatial Clustering of Applications with Noise
+
+![Image of DBSCAN Plot](dbscan.png)
